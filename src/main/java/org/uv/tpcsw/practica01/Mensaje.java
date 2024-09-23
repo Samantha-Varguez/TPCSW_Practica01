@@ -1,5 +1,5 @@
 
-package com.mycompany.tpcsw_practica01;
+package org.uv.tpcsw.practica01;
 
 public abstract class Mensaje {
     

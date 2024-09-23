@@ -1,5 +1,5 @@
 // evitar que se cree mas de una instancia con el constructor
-package com.mycompany.tpcsw_practica01;
+package org.uv.tpcsw.practica01;
 
 public class Singleton {
     
